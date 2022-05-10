@@ -1,4 +1,4 @@
-grados_centigrados = 30
+grados_centigrados = 30  
 
 if grados_centigrados >35:
     print ("ta juerte la calor")
@@ -7,4 +7,4 @@ elif grados_centigrados >=25 and  grados_centigrados <=30 :
 elif grados_centigrados <=25:
     print ("es hora de sacar el sueter cucarachiento")
 else :
-    print ("No se como esta la tempratura")
+    print ("No se como esta la tempraturas")
