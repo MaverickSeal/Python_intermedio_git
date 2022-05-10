@@ -7,4 +7,4 @@ elif grados_centigrados >=25 and  grados_centigrados <=30 :
 elif grados_centigrados <=25:
     print ("es hora de sacar el sueter cucarachiento")
 else :
-    print ("No se como esta la tempraturas")
+    print ("No se como esta la tempratura")
